@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMS1.V2.Rest.Client.CSharp", "SMS1 CSharp Client\SMS1.V2.Rest.Client.CSharp.csproj", "{FF809DC9-65C3-47D2-AB50-36964FFF1ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF809DC9-65C3-47D2-AB50-36964FFF1ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF809DC9-65C3-47D2-AB50-36964FFF1ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF809DC9-65C3-47D2-AB50-36964FFF1ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF809DC9-65C3-47D2-AB50-36964FFF1ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44561571-DC0D-41C4-B185-449E268B96E2}
+	EndGlobalSection
+EndGlobal
